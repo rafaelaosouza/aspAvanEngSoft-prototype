@@ -1,4 +1,4 @@
-# Prototype — Veículo e Motor
+# Prototype: Veículo e Motor
 
 Implementação do padrão de projeto **Prototype**, aplicada a veículos.
 
